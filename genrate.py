@@ -1,8 +1,8 @@
-import yaml
+# import yaml
 from markdown import markdown
 from jinja2 import Environment, FileSystemLoader
-from time import sleep
-import os
+# from time import sleep
+# import os
 
 
 def renderIndex():
@@ -38,10 +38,7 @@ def renderLearnMore():
     result.close()
 
 
-
 if __name__ == "__main__":
 
     renderIndex()
     renderLearnMore()
-    sleep(2)
-
