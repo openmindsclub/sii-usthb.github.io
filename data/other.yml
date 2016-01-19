@@ -1,0 +1,12 @@
+videos:
+    "Leveraging Open Source - Everything You Wanted to Know About Open Source that Nobody Told You (including getting paid to do it).":
+        link: https://vimeo.com/28610688
+
+interesting:
+    "OpenHatch": 
+        text: "A non-profit dedicated to matching prospective free software contributors with communities, tools, and education. "
+        link: https://openhatch.org/
+
+    "Explore.Github": 
+        text: "Browse interesting projects, solving all types of interesting problems."
+        link: https://github.com/explore
