@@ -19,10 +19,10 @@ It's really simple:
 
 ### How to contribute?
 
-If you want to enrich the content with some files you can:
+If you want to enrich the content with some files or propose something you can:
 
 1. Making a pull request to the [github project](http://github.com/sii-usthb/sii-usthb.github.io).
-2. Comment to github issues
+2. Create a [new github issues](https://github.com/sii-usthb/sii-usthb.github.io/issues)
 3. Send an email to **siiusthb@tutanota.com**
 
 PS: Any other type of contribution is welcomed! 
