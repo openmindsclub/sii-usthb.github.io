@@ -14,8 +14,8 @@ It's really simple:
 
 * *generate.py*: One python program to generate the website using [jinja2](http://jinja.pocoo.org/) templating. 
 * *template/*: contains the Jinja2 templates.
-* *Data/*: contains the zip files.
-		
+* *Data/*: contains the yaml files for the "semester" pages ([semesterOne](https://sii-usthb.github.io/One.html), [semesterTwo](https://sii-usthb.github.io/Two.html), [semesterThree](https://sii-usthb.github.io/Three.html)) generation. You do not need to know about *yaml*, just follow the simple syntax of the files.
+
 
 ### How to contribute?
 
