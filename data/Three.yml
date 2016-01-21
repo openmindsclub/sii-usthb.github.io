@@ -1,22 +1,45 @@
 modules:
-    "Operating System":
+    "Computer Vision":
+        cours: https://vimeo.com/28610688
+        td: https://vimeo.com/28610688
+        interoExam: https://vimeo.com/28610688
+        all: https://vimeo.com/28610688
+
+    "Constraint Programming":
         cours: https://vimeo.com/28610688
         td: https://vimeo.com/28610688
         tp: https://vimeo.com/28610688
         interoExam: https://vimeo.com/28610688
         all: https://vimeo.com/28610688
 
-    "Computational Complexity":
+    "Information Retrieval":
         cours: https://vimeo.com/28610688
         tp: https://vimeo.com/28610688
         interoExam: https://vimeo.com/28610688
         all: https://vimeo.com/28610688
 
-    "Problems Resolution":
+    "Data Mining":
         cours: https://vimeo.com/28610688
+        tp: https://vimeo.com/28610688
         interoExam: https://vimeo.com/28610688
         all: https://vimeo.com/28610688
 
+    "Knowledge Representation and Reasoning II":
+        cours: https://vimeo.com/28610688
+        td: https://vimeo.com/28610688
+        interoExam: https://vimeo.com/28610688
+        all: https://vimeo.com/28610688
+
+    "Natural Language Processing":
+        cours: https://vimeo.com/28610688
+        tp: https://vimeo.com/28610688
+        interoExam: https://vimeo.com/28610688
+        all: https://vimeo.com/28610688
+
+    "English":
+        cours: https://vimeo.com/28610688
+        interoExam: https://vimeo.com/28610688
+        all: https://vimeo.com/28610688
 
 everything: http://link.To/Everything.zip
 
