@@ -1,22 +1,51 @@
 modules:
-    "Operating System":
+    "Artificial Neural Networks and Machine Learning":
+        cours: https://vimeo.com/28610688
+        tp: https://vimeo.com/28610688
+        interoExam: https://vimeo.com/28610688
+        all: https://vimeo.com/28610688
+
+    "Meta-heuristics and Evolutionary Algorithms":
+        cours: https://vimeo.com/28610688
+        tp: https://vimeo.com/28610688
+        interoExam: https://vimeo.com/28610688
+        all: https://vimeo.com/28610688
+
+    "Knowledge Representation and Reasoning I":
+        cours: https://vimeo.com/28610688
+        td: https://vimeo.com/28610688
+        interoExam: https://vimeo.com/28610688
+        all: https://vimeo.com/28610688
+
+    "Agents Technology":
         cours: https://vimeo.com/28610688
         td: https://vimeo.com/28610688
         tp: https://vimeo.com/28610688
         interoExam: https://vimeo.com/28610688
         all: https://vimeo.com/28610688
 
-    "Computational Complexity":
+    "E-commerce and Web Services":
         cours: https://vimeo.com/28610688
         tp: https://vimeo.com/28610688
         interoExam: https://vimeo.com/28610688
         all: https://vimeo.com/28610688
 
-    "Problems Resolution":
+    "Advanced Databases":
         cours: https://vimeo.com/28610688
+        tp: https://vimeo.com/28610688
         interoExam: https://vimeo.com/28610688
         all: https://vimeo.com/28610688
 
+    "IT Security":
+        cours: https://vimeo.com/28610688
+        td: https://vimeo.com/28610688
+        interoExam: https://vimeo.com/28610688
+        all: https://vimeo.com/28610688
+
+    "English":
+        cours: https://vimeo.com/28610688
+        interoExam: https://vimeo.com/28610688
+        all: https://vimeo.com/28610688
 
 everything: http://link.To/Everything.zip
 

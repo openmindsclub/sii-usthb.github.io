@@ -1,22 +1,46 @@
 modules:
-    "Operating System":
+    "Advanced Algorithms and Computational Complexity":
         cours: https://vimeo.com/28610688
         td: https://vimeo.com/28610688
         tp: https://vimeo.com/28610688
         interoExam: https://vimeo.com/28610688
         all: https://vimeo.com/28610688
 
-    "Computational Complexity":
+    "Problems Resolution":
+        cours: https://vimeo.com/28610688
+        td: https://vimeo.com/28610688
+        interoExam: https://vimeo.com/28610688
+        all: https://vimeo.com/28610688
+
+    "Compilation":
+        cours: https://vimeo.com/28610688
+        td: https://vimeo.com/28610688
+        interoExam: https://vimeo.com/28610688
+        all: https://vimeo.com/28610688
+
+    "Operating Systems":
+        cours: https://vimeo.com/28610688
+        td: https://vimeo.com/28610688
+        tp: https://vimeo.com/28610688
+        interoExam: https://vimeo.com/28610688
+        all: https://vimeo.com/28610688
+
+    "Modeling and Evaluation of Systems Performance (MEPS)":
+        cours: https://vimeo.com/28610688
+        td: https://vimeo.com/28610688
+        interoExam: https://vimeo.com/28610688
+        all: https://vimeo.com/28610688
+
+    "Databases Architecture and Administration":
         cours: https://vimeo.com/28610688
         tp: https://vimeo.com/28610688
         interoExam: https://vimeo.com/28610688
         all: https://vimeo.com/28610688
 
-    "Problems Resolution":
+    "English":
         cours: https://vimeo.com/28610688
         interoExam: https://vimeo.com/28610688
         all: https://vimeo.com/28610688
-
 
 everything: http://link.To/Everything.zip
 
