@@ -32,7 +32,7 @@
 						<thead>
 						</thead>
 						<tbody>
-						{% for name, elem in modules.items() %}
+						{% for name, elem in modules.items()|sort %}
 							<tr>
 								<td>{{ name }}</td>
 								{% for i in ['cours','td','tp','interoExam','all'] %}
