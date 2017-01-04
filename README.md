@@ -32,7 +32,7 @@ It's structured as follows:
 Install the requirements via: ```pip install -r requirements.txt```
 
 ------------------------------------------------
-
+<a name="contact"></a> 
 ## I want to contribute:
 
 If you want to enrich the content with some files or propose something you can:
